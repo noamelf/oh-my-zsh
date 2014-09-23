@@ -1,5 +1,7 @@
 !https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png!
 
+I'm the man!!
+
 @oh-my-zsh@ is an open source, community-driven framework for managing your "Zsh":http://www.zsh.org/ configuration.
 
 It comes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout…
